@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DIR_IN Pin=U3-6
+Added Pin To Net: NetName=DIR_OUT Pin=U3-6
